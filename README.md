@@ -10,7 +10,7 @@ Here, you will find the [rules of the game](https://playwerewolf.co/pages/rules)
 
 ## How does it work?
 
-There is many classes. Some are for reactions, some others are for nomination, etc etc... Then, the main code deals with all these informations and created the game overall.
+There is many classes. Some are for reactions, some others are for nomination, etc etc... Then, the main code deals with all these informations and creates the game overall.
 
 ## Summary
 
