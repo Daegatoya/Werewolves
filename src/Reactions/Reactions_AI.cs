@@ -27,8 +27,6 @@ namespace Werewolf.Reactions
                 case var value when value == "Werewolf": { Werewolf_Choice_AI = Werewolf_React(players); break; }
                 case var value when value == "Seer": { Seer_React(players); break; }
                 case var value when value == "Witch": { Witch_Choice_AI = Witch_React(players, death_List, potions); break; }
-                case var value when value == "Peasant": { Peasant_React(); break; }
-                case var value when value == "Crow": { Crow_React(); break; }
                 case var value when value == "Cupid": { Cupid_Choice_AI = Cupid_React(players); break; }
             }
         }
