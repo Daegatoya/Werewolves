@@ -18,7 +18,7 @@ So, basically, this is by far my biggest project. I spent over 2 weeks working o
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
